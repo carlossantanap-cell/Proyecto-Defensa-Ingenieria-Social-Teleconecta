@@ -1,0 +1,66 @@
+campaign_id,email,time,message,details
+5,,2026-07-02T04:15:34.936095524Z,Campaign Created,
+5,c.rojas@teleconecta.pe,2026-07-02T04:16:48.920952407Z,Email Sent,
+5,c.huaraca@teleconecta.pe,2026-07-02T04:17:48.850329151Z,Email Sent,
+5,d.mendoza@teleconecta.pe,2026-07-02T04:18:48.826433959Z,Email Sent,
+5,f.neyra@teleconecta.pe,2026-07-02T04:19:48.867023903Z,Email Sent,
+5,f.chavez@teleconecta.pe,2026-07-02T04:21:48.802816663Z,Email Sent,
+5,j.pariona@teleconecta.pe,2026-07-02T04:22:48.837644262Z,Email Sent,
+5,k.villar@teleconecta.pe,2026-07-02T04:23:48.906635508Z,Email Sent,
+5,l.quiroz@teleconecta.pe,2026-07-02T04:25:48.995698224Z,Email Sent,
+5,m.baltazar@teleconecta.pe,2026-07-02T04:26:48.827402617Z,Email Sent,
+5,n.ortega@teleconecta.pe,2026-07-02T04:27:48.868214551Z,Email Sent,
+5,p.sanchez@teleconecta.pe,2026-07-02T04:29:48.858267491Z,Email Sent,
+5,r.delgado@teleconecta.pe,2026-07-02T04:30:48.961552285Z,Email Sent,
+5,v.ccopa@teleconecta.pe,2026-07-02T04:31:48.884660107Z,Email Sent,
+5,o.cangana@teleconecta.pe,2026-07-02T04:33:48.976692664Z,Email Sent,
+5,c.requena@teleconecta.pe,2026-07-02T04:34:48.834174193Z,Email Sent,
+5,e.bocanegra@teleconecta.pe,2026-07-02T04:35:48.844967881Z,Email Sent,
+5,g.ninahuanca@teleconecta.pe,2026-07-02T04:37:49.189425495Z,Email Sent,
+5,i.malpartida@teleconecta.pe,2026-07-02T04:38:48.816114175Z,Email Sent,
+5,k.rondon@teleconecta.pe,2026-07-02T04:39:48.832016636Z,Email Sent,
+5,l.anco@teleconecta.pe,2026-07-02T04:41:48.843040677Z,Email Sent,
+5,s.yataco@teleconecta.pe,2026-07-02T04:42:48.824827041Z,Email Sent,
+5,v.salcedo@teleconecta.pe,2026-07-02T04:43:48.873470361Z,Email Sent,
+5,v.ccopa@teleconecta.pe,2026-07-02T05:41:51.961911239Z,Email Opened,"{""payload"":{""rid"":[""Y7QACCY""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,v.salcedo@teleconecta.pe,2026-07-02T05:42:39.268852909Z,Email Opened,"{""payload"":{""rid"":[""BlqmuXB""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,s.yataco@teleconecta.pe,2026-07-02T05:42:40.627410754Z,Email Opened,"{""payload"":{""rid"":[""oqc4ed2""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,l.anco@teleconecta.pe,2026-07-02T05:42:41.511541126Z,Email Opened,"{""payload"":{""rid"":[""WeztLwy""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,k.rondon@teleconecta.pe,2026-07-02T05:42:42.287596744Z,Email Opened,"{""payload"":{""rid"":[""602vSjw""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,i.malpartida@teleconecta.pe,2026-07-02T05:42:43.281845479Z,Email Opened,"{""payload"":{""rid"":[""eHsUkzg""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,g.ninahuanca@teleconecta.pe,2026-07-02T05:42:43.997710968Z,Email Opened,"{""payload"":{""rid"":[""PfQAFt8""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,c.requena@teleconecta.pe,2026-07-02T05:42:45.136423427Z,Email Opened,"{""payload"":{""rid"":[""mEXOBQK""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,o.cangana@teleconecta.pe,2026-07-02T05:42:45.71502814Z,Email Opened,"{""payload"":{""rid"":[""bKOxm0x""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,c.rojas@teleconecta.pe,2026-07-02T05:56:11.726444713Z,Clicked Link,"{""payload"":{""rid"":[""Hw4EYvB""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,c.rojas@teleconecta.pe,2026-07-02T05:56:27.241384693Z,Submitted Data,"{""payload"":{""password"":[""Teletele987@""],""rid"":[""Hw4EYvB""],""username"":[""c.rojas@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,c.huaraca@teleconecta.pe,2026-07-02T05:56:48.4176718Z,Clicked Link,"{""payload"":{""rid"":[""Tyrkzjs""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,c.huaraca@teleconecta.pe,2026-07-02T05:57:10.956388789Z,Submitted Data,"{""payload"":{""password"":[""Huaraca567!""],""rid"":[""Tyrkzjs""],""username"":[""c.huaraca@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,g.ninahuanca@teleconecta.pe,2026-07-02T05:57:36.860376289Z,Email Reported,"{""payload"":{""rid"":[""PfQAFt8""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,i.malpartida@teleconecta.pe,2026-07-02T05:57:38.312568338Z,Email Reported,"{""payload"":{""rid"":[""eHsUkzg""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,f.chavez@teleconecta.pe,2026-07-02T05:57:52.042727394Z,Clicked Link,"{""payload"":{""rid"":[""ICLgNjm""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,f.chavez@teleconecta.pe,2026-07-02T05:58:12.369175555Z,Submitted Data,"{""payload"":{""password"":[""Chavezzz4321#""],""rid"":[""ICLgNjm""],""username"":[""f.chavez@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,f.neyra@teleconecta.pe,2026-07-02T05:58:31.143366091Z,Clicked Link,"{""payload"":{""rid"":[""0ekxBM0""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,e.bocanegra@teleconecta.pe,2026-07-02T05:58:59.061818769Z,Clicked Link,"{""payload"":{""rid"":[""iDbhvio""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,e.bocanegra@teleconecta.pe,2026-07-02T05:59:11.176371734Z,Submitted Data,"{""payload"":{""password"":[""Bocanegra12345$""],""rid"":[""iDbhvio""],""username"":[""e.bocanegra@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,d.mendoza@teleconecta.pe,2026-07-02T05:59:26.353677449Z,Clicked Link,"{""payload"":{""rid"":[""J3tgjGj""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,d.mendoza@teleconecta.pe,2026-07-02T05:59:33.777066059Z,Email Reported,"{""payload"":{""rid"":[""J3tgjGj""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,m.baltazar@teleconecta.pe,2026-07-02T06:11:35.672312651Z,Clicked Link,"{""payload"":{""rid"":[""fq9BkDg""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,m.baltazar@teleconecta.pe,2026-07-02T06:11:46.216944131Z,Submitted Data,"{""payload"":{""password"":[""Baltazar8472$""],""rid"":[""fq9BkDg""],""username"":[""m.baltazar@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,p.sanchez@teleconecta.pe,2026-07-02T06:12:04.893896838Z,Clicked Link,"{""payload"":{""rid"":[""hHn8G3t""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,p.sanchez@teleconecta.pe,2026-07-02T06:12:18.14997663Z,Submitted Data,"{""payload"":{""password"":[""sAnchezzz5454\u0026""],""rid"":[""hHn8G3t""],""username"":[""p.sanchez@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,l.anco@teleconecta.pe,2026-07-02T06:12:28.202981328Z,Email Reported,"{""payload"":{""rid"":[""WeztLwy""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,v.salcedo@teleconecta.pe,2026-07-02T06:12:40.759800608Z,Clicked Link,"{""payload"":{""rid"":[""BlqmuXB""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,v.salcedo@teleconecta.pe,2026-07-02T06:13:07.970715736Z,Submitted Data,"{""payload"":{""password"":[""Telelesalcedo431_""],""rid"":[""BlqmuXB""],""username"":[""v.salcedo@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,s.yataco@teleconecta.pe,2026-07-02T06:13:23.844363894Z,Email Reported,"{""payload"":{""rid"":[""oqc4ed2""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,k.rondon@teleconecta.pe,2026-07-02T06:14:26.550952982Z,Clicked Link,"{""payload"":{""rid"":[""602vSjw""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,k.rondon@teleconecta.pe,2026-07-02T06:15:18.476454889Z,Submitted Data,"{""payload"":{""password"":[""rororoRon4322%""],""rid"":[""602vSjw""],""username"":[""k.rondon@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,n.ortega@teleconecta.pe,2026-07-02T06:15:33.217326129Z,Clicked Link,"{""payload"":{""rid"":[""7DQn72c""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,n.ortega@teleconecta.pe,2026-07-02T06:15:39.67181709Z,Submitted Data,"{""payload"":{""password"":[""GASDGFASGFAS654%""],""rid"":[""7DQn72c""],""username"":[""n.ortega@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,r.delgado@teleconecta.pe,2026-07-02T06:15:53.252777341Z,Clicked Link,"{""payload"":{""rid"":[""eHkZt0Y""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,r.delgado@teleconecta.pe,2026-07-02T06:16:03.936635277Z,Submitted Data,"{""payload"":{""password"":[""DEGfasKa6776\u0026""],""rid"":[""eHkZt0Y""],""username"":[""r.delgado@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,l.quiroz@teleconecta.pe,2026-07-02T06:16:22.460649466Z,Clicked Link,"{""payload"":{""rid"":[""OqUaFr6""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,l.quiroz@teleconecta.pe,2026-07-02T06:16:34.796243766Z,Submitted Data,"{""payload"":{""password"":[""quuuerroz5454#""],""rid"":[""OqUaFr6""],""username"":[""l.quiroz@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,k.villar@teleconecta.pe,2026-07-02T06:16:43.344897025Z,Clicked Link,"{""payload"":{""rid"":[""lCXBYwS""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,k.villar@teleconecta.pe,2026-07-02T06:16:57.661162881Z,Submitted Data,"{""payload"":{""password"":[""Villllrererer65++""],""rid"":[""lCXBYwS""],""username"":[""k.villar@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,j.pariona@teleconecta.pe,2026-07-02T06:17:29.892736159Z,Clicked Link,"{""payload"":{""rid"":[""x2yxdQs""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
+5,j.pariona@teleconecta.pe,2026-07-02T06:17:43.70388644Z,Submitted Data,"{""payload"":{""password"":[""Pariiiiona%344""],""rid"":[""x2yxdQs""],""username"":[""j.pariona@teleconecta.pe""]},""browser"":{""address"":""127.0.0.1"",""user-agent"":""Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0""}}"
