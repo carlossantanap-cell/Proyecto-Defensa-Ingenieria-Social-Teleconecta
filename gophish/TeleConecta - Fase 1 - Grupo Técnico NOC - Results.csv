@@ -1,9 +1,0 @@
-id,status,ip,latitude,longitude,send_date,reported,modified_date,email,first_name,last_name,position
-n2qQQbc,Submitted Data,127.0.0.1,0,0,2026-07-02T04:00:46.664103082Z,false,2026-07-02T05:49:12.066476659Z,a.cardenas@teleconecta.pe,Anthony,Cárdenas Solis,Técnico de Soporte
-oDAOwLk,Error,,0,0,2026-07-02T04:00:00Z,false,2026-07-02T04:00:46.999535313Z,b.torres@teleconecta.pe,Brayan,Torres Ñahui,Técnico de Soporte
-pAPYEaf,Clicked Link,127.0.0.1,0,0,2026-07-02T04:02:48.86923623Z,true,2026-07-02T05:51:43.808435398Z,j.quispe@teleconecta.pe,Jhonatan,Quispe Mamani,Técnico de Soporte
-4JE0BFE,Email Sent,,0,0,2026-07-02T04:04:48.739627102Z,false,2026-07-02T04:04:48.739627102Z,k.huaman@teleconecta.pe,Kevin,Huamán Rojas,Técnico de Redes
-Qyp8qNq,Submitted Data,127.0.0.1,0,0,2026-07-02T04:06:48.801354842Z,false,2026-07-02T05:50:39.075581136Z,l.paredes@teleconecta.pe,Luis,Paredes Huamán,Jefe de TI
-9dqa47n,Clicked Link,127.0.0.1,0,0,2026-07-02T04:08:48.865743392Z,false,2026-07-02T05:52:27.496461755Z,m.villanueva@teleconecta.pe,Marco,Villanueva Torres,Administrador de Red / NOC
-241aTvO,Submitted Data,127.0.0.1,0,0,2026-07-02T04:10:48.987676743Z,false,2026-07-02T05:53:01.374156126Z,m.cusi@teleconecta.pe,Milagros,Cusi Apaza,Analista de Sistemas
-Wxm1UX2,Clicked Link,127.0.0.1,0,0,2026-07-02T04:12:48.848264933Z,true,2026-07-02T06:18:05.727374352Z,r.salazar@teleconecta.pe,Renzo,Salazar Vidal,Técnico de Redes
